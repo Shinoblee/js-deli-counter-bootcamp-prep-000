@@ -1,3 +1,3 @@
-function currentLine(){
+function currentLine(line){
   
 }

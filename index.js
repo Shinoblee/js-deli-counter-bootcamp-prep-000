@@ -3,5 +3,7 @@ function currentLine(line){
     return "The line is currently empty.";
   }
     const lineNumAndName = [];
-    for (let i = 0, l = line.length; )
+    for (let i = 0, l = line.length; i < l; i++){
+      
+    }
 }

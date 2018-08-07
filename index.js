@@ -4,6 +4,6 @@ function currentLine(line){
   }
     const lineNumAndName = [];
     for (let i = 0, l = line.length; i < l; i++){
-      lineNumAndName.push(`${i}`)
+      lineNumAndName.push(`${i + 1}`)
     }
 }

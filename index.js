@@ -10,5 +10,6 @@ function currentLine(line){
 }
 
 function takeANumber(linePos, name){
-  
+  linePos.push('name');
+  return `Welcome, ${name}. You are number ${linePos + 1} in line.`
 }

@@ -8,3 +8,7 @@ function currentLine(line){
     }
     return `The line is currently: ${lineNumAndName.join(', ')}`;
 }
+
+function takeANumber(linePos, name){
+  
+}

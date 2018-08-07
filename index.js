@@ -1,5 +1,3 @@
-function takeANumber(lineNum, name){
+function currentLine(){
   
 }
-
-function currentLine()

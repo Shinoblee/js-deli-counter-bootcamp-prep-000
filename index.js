@@ -14,4 +14,6 @@ function takeANumber(linePos, name){
   return `Welcome, ${name}. You are number ${linePos.length} in line.`;
 }
 
-function nowServing()
+function nowServing(line){
+  
+}

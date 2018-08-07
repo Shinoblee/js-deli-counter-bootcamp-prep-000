@@ -15,5 +15,6 @@ function takeANumber(linePos, name){
 }
 
 function nowServing(line){
+  return line.length[0];
   
 }
